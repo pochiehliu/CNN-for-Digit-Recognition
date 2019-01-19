@@ -6,7 +6,8 @@ This personal project is trying to apply two simple algorithm, kNN and SVM, on d
 
 1. Apply visulization techniques to investigae MNIST data
 2. Implement kNN and SVM algorithm
-3-1. Implement NN algorithm using numpy
-3-2. Implement NN using Affine layer structure
-3-3. Add regulation term
-3-4. Add convolution filter feature
+3. 
+  1. Implement NN algorithm using numpy
+  2. Implement NN using Affine layer structure
+  3. Add regulation term
+  4. Add convolution filter feature
