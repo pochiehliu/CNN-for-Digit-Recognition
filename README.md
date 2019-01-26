@@ -1,6 +1,6 @@
 ## Persoanl Prohect: Digit recognition
 
-This personal project is trying to apply two simple algorithm, kNN and SVM, on digit recognition as a baseline model. Then build  convolutional neural network (CNN) using numpy on same dataset.
+This personal project is focusing on building convolutional neural network (CNN) using numpy in python for recognizing hand written digits. Two simple algorithms, kNN and SVM, were applied as baseline models. 
 
 ### Steps
 
@@ -8,5 +8,5 @@ This personal project is trying to apply two simple algorithm, kNN and SVM, on d
 2. Implement kNN and SVM algorithm
 3. Implement NN algorithm using numpy
 4. Implement NN using Affine layer structure
-5. Add regulation term
+5. Add suggested initial weights (Xavier and He) and dropout feature
 6. Add convolution filter feature
