@@ -1,6 +1,6 @@
 ## Persoanl Prohect: Digit recognition
 
-This personal project is trying to apply two simple algorithm, kNN and SVM, on digit recognition as a baseline model. Then apply convolutional neural network (CNN) on same problem.
+This personal project is trying to apply two simple algorithm, kNN and SVM, on digit recognition as a baseline model. Then build  convolutional neural network (CNN) using numpy on same dataset.
 
 ### Steps
 
