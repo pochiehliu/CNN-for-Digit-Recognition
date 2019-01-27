@@ -13,5 +13,5 @@ This personal project is focusing on building convolutional neural network (CNN)
 7. Add convolution filter feature
 
 ### Reference
-http://cs231n.stanford.edu/
-Deep Learning, O'Reilly
+1. http://cs231n.stanford.edu/
+2. Deep Learning, O'Reilly
