@@ -11,3 +11,7 @@ This personal project is focusing on building convolutional neural network (CNN)
 5. Implement optimizers (SGD, Momentum, AdaGrad, Adam, RMSprop)
 6. Add suggested initial weights (Xavier and He) and dropout feature
 7. Add convolution filter feature
+
+### Reference
+1. http://cs231n.stanford.edu/
+2. Deep Learning, O'Reilly
